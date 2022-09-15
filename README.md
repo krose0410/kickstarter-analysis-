@@ -22,3 +22,5 @@ The next chart shows the outcomes based on the goals funded of all theater plays
 - The results would be more accurate and relevant if the data provided was more updated.  This information was from 2009 – 2017.
 ### Recommendation for Possible Tables and/or Graphs
 - Could have used stacked column chart which could have showed the Outcomes Based on Goals.
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/109715441/190520131-8e5b2457-0a1d-463d-8b14-e48969a6e843.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/109715441/190520138-ce10b423-4cdb-437b-8ab7-c5efa08f787a.png)
